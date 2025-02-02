@@ -57,8 +57,4 @@ public class Catalogo {
 		
 		catalogo.mostrar();
 	}
-
-
-	
-	
 }
